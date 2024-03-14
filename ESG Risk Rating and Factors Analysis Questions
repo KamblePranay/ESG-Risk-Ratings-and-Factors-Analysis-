@@ -1,0 +1,35 @@
+                                                                                    ESG Risk Rating and Factors Analysis Questions
+
+1. Basic Descriptive Analysis:
+
+-- What are the minimum, maximum, and average values of the Total ESG Risk Score, Environment Risk Score, Governance Risk Score, and Social Risk Score?
+-- How many unique companies are included in the dataset?
+
+2. Sector and Industry Analysis:
+
+-- Which sectors and industries have the highest average Total ESG Risk Score?
+-- Are there any sectors or industries that consistently perform poorly as per ESG risk level?
+
+3. Controversy Analysis:
+
+-- How many companies have a Controversy Level above a certain threshold (e.g., Moderate or high)?
+-- Is there any correlation between the Controversy Score and the Total ESG Risk Score?
+
+4. ESG Risk Percentile Analysis:
+
+-- What percentage of companies fall within each percentile range of ESG Risk Percentile?
+-- Are there any sectors or industries that are overrepresented in the lower percentiles?
+
+5. Comparison Across Risk Categories:
+
+-- How do the distributions of Environment, Social, and Governance Risk Scores vary across different sectors?
+
+Company Size Analysis:
+
+Is there a correlation between the size of a company (measured by Full Time Employees) and its Total ESG Risk Score?
+
+Ranking and Benchmarking:
+
+-- Can you identify the top-performing companies in each ESG risk score?
+-- Can you identify the top-performing companies by Controversy Score ?
+-- How does the performance of specific companies compare to industry benchmarks or peers?
