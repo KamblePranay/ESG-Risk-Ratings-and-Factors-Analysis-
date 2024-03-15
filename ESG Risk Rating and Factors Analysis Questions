@@ -1,9 +1,22 @@
                                                                                     ESG Risk Rating and Factors Analysis Questions
 
-1. Basic Descriptive Analysis:
+1. Basic/Descriptive Analysis:
 
 -- What are the minimum, maximum, and average values of the Total ESG Risk Score, Environment Risk Score, Governance Risk Score, and Social Risk Score?
+
 -- How many unique companies are included in the dataset?
+
+-- Calculate the average environment risk score for each industry.
+
+-- Find companies with a high controversy level and low governance risk score.
+
+-- Find the average total ESG risk score for companies in the same sector as the company with the highest controversy score.
+
+/*Retrieve the names and descriptions of companies that have a higher total ESG risk score than 
+the average ESG risk score across all companies.*/
+
+ /*Retrieve the names and sector of companies that have a higher total ESG risk score than 
+the Minmum ESG risk score across all companies.*/
 
 2. Sector and Industry Analysis:
 
